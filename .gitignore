@@ -1,2 +1,5 @@
 *pycache*
 *checkpoint*
+.DS_Store
+/.tmp.drivedownload
+/.tmp.driveupload
